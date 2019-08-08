@@ -28,10 +28,11 @@
 }
 
 .bg-dark{
-  color: wheat!important;
+  color: white!important;
   background-color: black!important;
 }
 
 .navbar-nav {
   flex-direction: row;
 }
+
