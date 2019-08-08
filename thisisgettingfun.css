@@ -1,0 +1,25 @@
+.stylus-image {
+  background-image: url(https://entreprenoria.com/wp-content/uploads/2016/04/The-Pros-and-Cons-of-Being-Your-Own-Boss-702x336.jpg);
+  background-size: cover;
+  min-height: 46vh;
+}
+
+.blue {
+  background-color: #007bff;
+  min-height: 46vh;
+}
+
+.third-row {
+  color: black;
+  min-height: 40vh;
+}
+
+::-webkit-scrollbar {
+  display: none;
+}
+
+.map-row {
+  background-image: url(https://www.vtexperts.com/wp-content/uploads/2016/07/google-map-background-1900x1170.png);
+  background-size: cover;
+  min-height: 46vh;
+}
